@@ -2,7 +2,10 @@
 
 Real-time browser-side logging and classification toolkit for ad, tracking, pixel, and social network requests.
 
-[![Version](https://img.shields.io/badge/version-2.0.0-2ea44f?style=for-the-badge)](./manifest.json)
+[![Chrome Store](https://img.shields.io/badge/platform-Chrome_Extension-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://chromewebstore.google.com/search/OstinUA)
+[![Chrome Portfolio](https://img.shields.io/badge/Chrome_Web_Store-Portfolio-34A853?style=for-the-badge&logo=google-chrome&logoColor=white)](https://ostinua.github.io/Chrome-Web-Store_Developer-List/)
+
+[![Version](https://img.shields.io/badge/version-2.0.1-2ea44f?style=for-the-badge)](./manifest.json)
 [![Manifest](https://img.shields.io/badge/chrome_manifest-v3-4285f4?style=for-the-badge)](./manifest.json)
 [![License: GPL-3.0](https://img.shields.io/badge/License-GPL--3.0-blue?style=for-the-badge)](./LICENSE)
 [![JavaScript](https://img.shields.io/badge/language-JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=000)](.)
